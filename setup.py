@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 
-setup(name='PW-PCAP-Builder',
+setup(name='pw_pcap_helper',
       description='Allow easy manipulation of PCAPs for integration tests',
       url='',
       author='Matt McGuire',
